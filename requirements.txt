@@ -1,0 +1,7 @@
+# Core analysis and Excel reading
+pandas>=2.2,<3.0
+matplotlib>=3.8,<4.0
+openpyxl>=3.1,<4.0
+
+# Local notebook environment (Colab already provides one)
+jupyterlab>=4.0,<5.0

@@ -1,0 +1,17 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded data; source is loaded by the notebook
+Online Retail.xlsx
+online_retail.zip
+data/
+
+# Local credentials and OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db
